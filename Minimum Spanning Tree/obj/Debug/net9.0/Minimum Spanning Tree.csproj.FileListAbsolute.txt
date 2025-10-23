@@ -1,0 +1,14 @@
+/Users/michaelsingh/Minimum Spanning Tree/bin/Debug/net9.0/Minimum Spanning Tree
+/Users/michaelsingh/Minimum Spanning Tree/bin/Debug/net9.0/Minimum Spanning Tree.deps.json
+/Users/michaelsingh/Minimum Spanning Tree/bin/Debug/net9.0/Minimum Spanning Tree.runtimeconfig.json
+/Users/michaelsingh/Minimum Spanning Tree/bin/Debug/net9.0/Minimum Spanning Tree.dll
+/Users/michaelsingh/Minimum Spanning Tree/bin/Debug/net9.0/Minimum Spanning Tree.pdb
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.AssemblyInfoInputs.cache
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.AssemblyInfo.cs
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.dll
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/refint/Minimum Spanning Tree.dll
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.pdb
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/Minimum Spanning Tree.genruntimeconfig.cache
+/Users/michaelsingh/Minimum Spanning Tree/obj/Debug/net9.0/ref/Minimum Spanning Tree.dll
